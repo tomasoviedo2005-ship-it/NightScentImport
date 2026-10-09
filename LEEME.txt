@@ -1,0 +1,15 @@
+NIGHT SCENT IMPORT — ARCHIVOS PARA GITHUB PAGES
+
+Contenido:
+- index.html: página completa del catálogo.
+
+Las 145 imágenes del catálogo están incrustadas dentro de index.html, así que no hace falta subir una carpeta de imágenes adicional.
+
+Cómo publicarla:
+1. Extraé el ZIP.
+2. En GitHub, creá un repositorio nuevo (por ejemplo: night-scent-import).
+3. Subí index.html a la raíz del repositorio.
+4. Entrá en Settings > Pages.
+5. En Build and deployment, elegí Deploy from a branch.
+6. Seleccioná la rama main y la carpeta /(root), y guardá.
+7. Esperá a que GitHub Pages publique el sitio.
